@@ -84,6 +84,6 @@ traits
 typing_extensions
 tzdata
 urllib3
-Werkzeug
+Werkzeug==2.0.3
 wheel
 wrapt
