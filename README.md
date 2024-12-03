@@ -1,6 +1,7 @@
 # LiberLens 📚🔍
 
 LiberLens is an interactive book exploration tool that allows users to upload books and engage in conversations with them using a RAG based LLM app.
+(Not Deployed Due to Financial constraints!!💵)
 ## Demo Video
 
 
